@@ -44,9 +44,12 @@ function f4(event) {
 function f5(event) {
     textArea.style.textAlign = "left";
 }
+
 function f6(event) {
+
     textArea.style.textAlign = "center";
 }
+
 function f7(event) {
     textArea.style.textAlign = "right";
 }
